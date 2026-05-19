@@ -16,13 +16,14 @@
 ### Tech Stack
 
 #### Cloud & DevOps
-![AWS](https://shields.io) ![GCP](https://shields.io) ![Alibaba Cloud](https://shields.io) ![Serverless](https://shields.io)
+<img src="https://shields.io" alt="AWS" /> <img src="https://shields.io" alt="GCP" /> <img src="https://shields.io" alt="Alibaba Cloud" /> <img src="https://shields.io" alt="Serverless" />
 
 #### Backend & Languages
-![Node.js](https://shields.io) ![.NET Core](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io)
+<img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt=".NET Core" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" />
 
 #### Databases & Caching
-![PostgreSQL](https://shields.io) ![SQL Server](https://shields.io) ![Redis](https://shields.io)
+<img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="SQL Server" /> <img src="https://shields.io" alt="Redis" />
+
 
 ---
 ### Featured Core Competencies
