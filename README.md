@@ -1,6 +1,6 @@
 
-# Hey, I'm Muhammad Nouman Bhatti 👋
-### Cloud Infrastructure Architect · Full-Stack Developer · AWS · GCP · Microservices
+<h1 align="center">Hey, I'm Muhammad Nouman Bhatti 👋</h1>
+<p align="center"><strong>Cloud Infrastructure Architect · Full-Stack Developer · AWS · GCP · Microservices</strong></p>
 
 ---
 
