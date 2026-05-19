@@ -45,5 +45,6 @@
 ---
 
 ### 🤝 Let's Connect!
-* 💼 **LinkedIn:** Let's network on [LinkedIn](https://au.linkedin.com/in/noumanbhatti)
-* 📡 **GitHub:** Explore my repositories right here on [GitHub](https://github.com)
+
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:your-email@example.com)
+Use code with caution.Note: Remember to replace your-email@example.com in the last line with your actual email address so clicking the button launches an email to you.Would you like to center-align the connection buttons beneath your profile statistics block?
