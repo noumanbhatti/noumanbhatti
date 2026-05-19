@@ -1,32 +1,29 @@
-## Hi there 👋
-
-<!--
-**nouman# Hi there, I'm Muhammad Nouman Bhatti 👋
-
-### Cloud Infrastructure Architect & Full-Stack Developer 🚀
-
-I am a passionate, solution-driven technology leader with **over 20 years of experience** designing and delivering scalable, secure, and efficient systems, alongside **5+ years of dedicated expertise in cloud-based solutions**. I specialise in transforming complex architectural ideas into robust, high-performance infrastructures that clear business hurdles and fuel innovation.
+# Hey, I'm Muhammad Nouman Bhatti 👋
+### Cloud Infrastructure Architect · Full-Stack Developer · AWS · GCP · Microservices
 
 ---
 
-### ⚙️ My Core Expertise
-* 🏗️ **Cloud Architecture:** Designing and deploying secure infrastructure on **AWS, Google Cloud (GCP), and AliCloud**.
-* ⚡ **Serverless & Microservices:** Scaling high-performance, decoupled background workers and application logic.
-* 📦 **Legacy Modernisation:** Leading migration strategies out of old systems into modern cloud-native eco-systems.
-* 💻 **Full-Stack Development:** Developing cross-tier web and enterprise applications using modern, reliable technologies.
+### About Me
+* 🏗️ **Experience:** Over 20 years designing secure, efficient solutions + 5 years dedicated cloud expertise.
+* 🔍 **Focus:** Transforming complex ideas into robust, scalable systems that power business innovation.
+* 🛠️ **Specialities:** Multi-cloud architecture, serverless worker configurations, and legacy modernisations.
+* 📍 **Location:** Altona Meadows, Victoria, Australia.
 
 ---
 
-### 🛠️ Tech Stack & Badges
+### Tech Stack
+AWS Google-Cloud Alibaba-Cloud Serverless Node.js .NET-Core TypeScript JavaScript PostgreSQL MSSQL Redis
 
-<!-- Cloud & Devops -->
-<img src="https://shields.io" alt="AWS" /> <img src="https://shields.io" alt="GCP" /> <img src="https://shields.io" alt="Alibaba Cloud" /> <img src="https://shields.io" alt="Serverless" />
+---
 
-<!-- Frontend & Backend -->
-<img src="https://shields.io" alt="Angular" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt=".NET Core" />
+### Featured Core Competencies
 
-<!-- Databases & Caching -->
-<img src="https://shields.io" alt="SQL Server" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="Redis" />
+| Domain Area | Technical Capabilities & Frameworks |
+| :--- | :--- |
+| **Cloud Architecture** | Designing multi-tier secure infrastructure on AWS, Google Cloud, and Alibaba Cloud |
+| **Serverless Systems** | Building microservices and decoupled background workers for fast application scale |
+| **Modernisation** | Strategising and leading large-scale system migrations from legacy to cloud-native setups |
+| **Full-Stack Engineering** | Developing robust backend application engines and clean, responsive user applications |
 
 ---
 
@@ -39,19 +36,5 @@ I am a passionate, solution-driven technology leader with **over 20 years of exp
 ---
 
 ### 🤝 Let's Connect!
-* 💼 **Professional Network:** Connect with me on [LinkedIn](https://www.linkedin.com/in/noumanbhatti/)
-* 📡 **Tech Repository:** Explore my code repositories right here on [GitHub](https://github.com/noumanbhatti)
-* 📍 **Location:** Altona Meadows, Victoria, Australia
-bhatti/noumanbhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💼 **LinkedIn:** Let's network on [LinkedIn](https://au.linkedin.com/in/noumanbhatti)
+* 📡 **GitHub:** Explore my repositories right here on [GitHub](https://github.com)
