@@ -47,4 +47,6 @@
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:noumanbhatti@gmail.com)
-
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=noumanbhatti@gmail.com" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/25741428ef5c068d0047f0f1ddadd7de984f7a390c81928bb6b9de75c24f4a13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+  </a>
