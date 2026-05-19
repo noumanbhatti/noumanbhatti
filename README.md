@@ -13,7 +13,6 @@
 ---
 
 ### Tech Stack
-### Tech Stack
 
 <!-- Cloud & DevOps -->
 <img src="https://shields.io" alt="AWS" /> <img src="https://shields.io" alt="GCP" /> <img src="https://shields.io" alt="Alibaba Cloud" /> <img src="https://shields.io" alt="Serverless" />
@@ -25,8 +24,6 @@
 <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="SQL Server" /> <img src="https://shields.io" alt="Redis" />
 
 ---
----
-
 ### Featured Core Competencies
 
 | Domain Area | Technical Capabilities & Frameworks |
