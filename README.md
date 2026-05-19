@@ -7,7 +7,8 @@
 * 🏗️ **Experience:** Over 20 years designing secure, efficient solutions + 5 years dedicated cloud expertise.
 * 🔍 **Focus:** Transforming complex ideas into robust, scalable systems that power business innovation.
 * 🛠️ **Specialities:** Multi-cloud architecture, serverless worker configurations, and legacy modernisations.
-* 📍 **Location:** Altona Meadows, Victoria, Australia.
+* 📍 **Countries:** Pakistan, Saudia Arabia, Australia.
+* 📍 **Cities:** Lahore, Jeddah, Melbourne, Brisbane.
 
 ---
 
