@@ -33,6 +33,26 @@
 
 ---
 
+
+### 🎓 Certifications
+<p align="left">
+  <a href="https://www.credly.com/badges/c306e6ec-44d0-461e-9f3a-0c4a9ffbfa19" rel="nofollow">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect – Associate" />
+  </a>
+  <a href="https://www.credly.com/badges/89124965-bd8d-4745-9dbb-df07257e58e0" rel="nofollow">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer – Associate" />
+  </a>
+  <a href="https://www.credly.com/badges/4e067d09-6bc5-4176-aaa9-051669bf6ce8" rel="nofollow">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Data Engineer – Associate" />
+  </a>
+  <a href="https://www.credly.com/badges/e33a59e0-7637-4cf8-8280-f8486b6a6b2f" rel="nofollow">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  </a>
+</p>
+<p align="left"><em>Verify all badges on <a href="https://www.credly.com/users/muhammad-nouman-ul-haq-bhatti/badges/credly">Credly →</a></em></p>
+
+---
+
 ### Featured Core Competencies
 
 | Domain Area | Technical Capabilities & Frameworks |
