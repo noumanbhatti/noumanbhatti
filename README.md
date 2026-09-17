@@ -78,6 +78,9 @@
 <a href="https://www.linkedin.com/in/noumanbhatti/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://helpdrive.wordpress.com/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Blog-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
+</a>
 <a href="mailto:your-email@example.com" rel="nofollow">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
