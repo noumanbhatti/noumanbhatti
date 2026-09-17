@@ -5,7 +5,7 @@
 
 ### About Me
 * 🏗️ **Experience:** Over 20 years designing secure, efficient solutions + 5 years dedicated cloud expertise.
-* 馃憯 **Leadership:** CEO at [BrandsBoostHub](https://brandsboosthub.com).
+* 👔 **Leadership:** CEO at [BrandsBoostHub](https://brandsboosthub.com).
 * 🔍 **Focus:** Transforming complex ideas into robust, scalable systems that power business innovation.
 * 🛠️ **Specialities:** Multi-cloud architecture, serverless worker configurations, and legacy modernisations.
 * 📍 **Countries:** Pakistan, Saudi Arabia, Australia.
