@@ -13,6 +13,9 @@
 * 🚧 **Currently Building:** [Losha](https://losha.pk), [Light-CRM](#), [DairyVitals](https://dairyvitals.com)
 * 🤖 **AI-Assisted Development:** Actively integrating AI APIs and using Claude AI to accelerate development across my products.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Built%20with-Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Built with Claude AI" />
+</p>
 ---
 
 ### Tech Stack
