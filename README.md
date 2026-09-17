@@ -11,7 +11,6 @@
 * 📍 **Countries:** Pakistan, Saudi Arabia, Australia.
 * 📍 **Cities:** Lahore, Jeddah, Melbourne, Brisbane.
 * 🚧 **Currently Building:** [Losha](https://losha.pk), [Light-CRM](#), [DairyVitals](https://dairyvitals.com)
-* 
 
 ---
 
