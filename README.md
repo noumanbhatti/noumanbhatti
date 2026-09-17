@@ -15,13 +15,22 @@
 ### Tech Stack
 
 #### Cloud & DevOps
-<img src="https://shields.io" alt="AWS" /> <img src="https://shields.io" alt="GCP" /> <img src="https://shields.io" alt="Alibaba Cloud" /> <img src="https://shields.io" alt="Serverless" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+<img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
+<img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless" />
 
 #### Backend & Languages
-<img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt=".NET Core" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 #### Databases & Caching
-<img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="SQL Server" /> <img src="https://shields.io" alt="Redis" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+
 ---
 
 ### Featured Core Competencies
@@ -37,16 +46,16 @@
 
 ### 📈 GitHub Statistics
 <p align="left">
-  <img src="https://vercel.app" alt="Nouman's GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noumanbhatti&show_icons=true&theme=default" alt="Nouman's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumanbhatti&layout=compact" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect!
 <a href="https://www.linkedin.com/in/noumanbhatti/" rel="nofollow">
-  <img src="https://shields.io" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://google.com" rel="nofollow">
-  <img src="https://shields.io" alt="Email" />
+<a href="mailto:your-email@example.com" rel="nofollow">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
