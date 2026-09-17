@@ -10,7 +10,7 @@
 * 🛠️ **Specialities:** Multi-cloud architecture, serverless worker configurations, and legacy modernisations.
 * 📍 **Countries:** Pakistan, Saudi Arabia, Australia.
 * 📍 **Cities:** Lahore, Jeddah, Melbourne, Brisbane.
-* 🚧 **Currently Building:** **Currently Building:** [Losha](#), [Light-CRM](#), [DairyVitals](#)
+* 🚧 **Currently Building:** [Losha](https://losha.pk), [Light-CRM](#), [DairyVitals](https://dairyvitals.com)
 * 
 
 ---
