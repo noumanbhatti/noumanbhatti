@@ -11,6 +11,7 @@
 * 📍 **Countries:** Pakistan, Saudi Arabia, Australia.
 * 📍 **Cities:** Lahore, Jeddah, Melbourne, Brisbane.
 * 🚧 **Currently Building:** [Losha](https://losha.pk), [Light-CRM](#), [DairyVitals](https://dairyvitals.com)
+* 🤖 **AI-Assisted Development:** Actively integrating AI APIs and using Claude AI to accelerate development across my products.
 
 ---
 
