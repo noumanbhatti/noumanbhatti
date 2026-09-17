@@ -81,6 +81,6 @@
 <a href="https://helpdrive.wordpress.com/" rel="nofollow">
   <img src="https://img.shields.io/badge/Blog-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
 </a>
-<a href="mailto:your-email@example.com" rel="nofollow">
+<a href="mailto:noumanbhatti@gmail.com" rel="nofollow">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
