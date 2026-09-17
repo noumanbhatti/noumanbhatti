@@ -22,7 +22,6 @@
 
 #### Databases & Caching
 <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="SQL Server" /> <img src="https://shields.io" alt="Redis" />
-
 ---
 
 ### Featured Core Competencies
