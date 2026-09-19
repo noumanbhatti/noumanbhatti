@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-* 🏗️ **Experience:** Over 20 years designing secure, efficient solutions + 5 years dedicated cloud expertise.
+* 🏗️ **Experience:** Over 20 years designing secure, efficient solutions, 5+ years dedicated cloud architect expertise. System Migration & Modernization   
 * 👔 **Leadership:** CEO at [BrandsBoostHub](https://brandsboosthub.com).
 * 🔍 **Focus:** Transforming complex ideas into robust, scalable systems that power business innovation.
 * 🛠️ **Specialities:** Multi-cloud architecture, serverless worker configurations, and legacy modernisations.
@@ -84,11 +84,11 @@
 <a href="https://www.linkedin.com/in/noumanbhatti/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://helpdrive.wordpress.com/" rel="nofollow">
-  <img src="https://img.shields.io/badge/Blog-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
-</a>
 <a href="mailto:noumanbhatti@gmail.com" rel="nofollow">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://helpdrive.wordpress.com/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Blog-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
 </a>
 <a href="https://stackoverflow.com/users/2430556/nouman-bhatti"><img src="https://stackoverflow.com/users/flair/2430556.png" width="208" height="58" alt="profile for Nouman Bhatti at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nouman Bhatti at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
