@@ -90,3 +90,5 @@
 <a href="mailto:noumanbhatti@gmail.com" rel="nofollow">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://stackoverflow.com/users/2430556/nouman-bhatti"><img src="https://stackoverflow.com/users/flair/2430556.png" width="208" height="58" alt="profile for Nouman Bhatti at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nouman Bhatti at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
